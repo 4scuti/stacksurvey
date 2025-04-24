@@ -39,10 +39,10 @@ Each model has had different changes of base applied to the log function.
 
     +----------------------+
     red regression line for C
-    coefficient = [[1427.57628612]]
-    intercept= [103659.81688347]
-    rmse =  26971.435951866046
-    r2 score =  0.06338789005150514
+    coefficient = 1427.58
+    intercept = 103659.82
+    rmse = 26971.44
+    r2 score = 0.06
     sample predictions:
     [[125073.46117519]
     [107942.54574181]
@@ -50,10 +50,10 @@ Each model has had different changes of base applied to the log function.
     +----------------------+
     +----------------------+
     magenta regression line for C
-    coefficient = [[11973.46915165]]
-    intercept= [54776.26654469]
-    rmse =  21198.612029169606
-    r2 score =  0.5719105246850147
+    coefficient = 11973.47
+    intercept = 54776.27
+    rmse = 21198.61
+    r2 score = 0.57
     sample predictions:
     [[132396.26294684]
     [119937.35465744]
@@ -70,10 +70,10 @@ However, there are more outliers among C programmers (earning >$200,000 per year
 
     +----------------------+
     red regression line for Python
-    coefficient = [[2573.62288638]]
-    intercept= [123479.14829609]
-    rmse =  39759.451947012705
-    r2 score =  0.3374996531752672
+    coefficient = 2573.62
+    intercept = 123479.15
+    rmse = 39759.45
+    r2 score = 0.34
     sample predictions:
     [[126052.77118246]
     [174951.60602361]
@@ -81,10 +81,10 @@ However, there are more outliers among C programmers (earning >$200,000 per year
     +----------------------+
     +----------------------+
     cyan regression line for Python
-    coefficient = [[10378.53148381]]
-    intercept= [82957.69404785]
-    rmse =  42374.26457780401
-    r2 score =  0.3775348676837581
+    coefficient = 10378.53
+    intercept = 82957.69
+    rmse = 42374.26
+    r2 score = 0.38
     sample predictions:
     [[139882.01866593]
     [117229.55243376]
