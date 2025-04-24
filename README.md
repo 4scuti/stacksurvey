@@ -31,6 +31,8 @@ The transformation is typically
 
     y = m * log(x) + b
 
+where the base is a parameter. 
+
 Each model has had different changes of base applied to the log function.
 
 ### C
@@ -98,5 +100,4 @@ Entry or junior level professionals generally have an income of $82,957 or $123,
 ## Acknowledgements
 
 * "Udacity AI" (ChatGPT), the idea to transform x values to appropriate a linear regression into a logarithmic regression.
-* ChatGPT, clarification on logarithmic regression results and interpretation.
 
