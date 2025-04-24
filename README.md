@@ -62,9 +62,7 @@ Each model has had different changes of base applied to the log function.
     [ 64985.1549115 ]]
     +----------------------+
 
-For C programmers, a linear model fits well but not great having an r2 score of 0.57. Junior level positions earn roughly $54,776. This income progresses $11,973 with each year of experience.
-
-However, there are more outliers among C programmers (earning >$200,000 per year where the model becomes unreliable, especially early to middle career).
+For C programmers, a linear model fits well but not great having an r2 score of 0.57. Junior level positions earn roughly $54,776. This income progresses $11,973 with each year of experience. However, there are more outliers among C programmers.
 
 ### Python
 
