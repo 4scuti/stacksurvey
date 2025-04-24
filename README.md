@@ -33,7 +33,7 @@ The transformation is typically
 
 where the base is a parameter. 
 
-Each model has had different changes of base applied to the log function.
+Each model had different changes of base applied to the log function.
 
 ### C
 
