@@ -15,7 +15,7 @@
 
 The motivation for project is satisfying a class assignment. Eventually, an interesting (enough) topic was discovered in the data set: 
 
->What is the annual compensation (y) over years of experience (x) of deveopers who use a programming language from a specific country?
+>What is the annual compensation (y) over years of experience (x) of developers who use a programming language from a specific country?
 
 ## Requirements
 
@@ -97,5 +97,5 @@ Entry or junior level professionals generally have an income of $82,957 or $123,
 
 ## Acknowledgements
 
-* "Udacity AI" (ChatGPT), the idea to transform x values to appropriate a linear regression into a logarithmic regression.
+"Udacity AI" (ChatGPT), the idea to transform x values to appropriate a linear regression into a logarithmic regression.
 
